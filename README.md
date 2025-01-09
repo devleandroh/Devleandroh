@@ -2,7 +2,7 @@
 <h1 align="center"> 👋 I'm Leandro Santos </h1>
 <h3 align="center">My passion is to learn new things about technology every day.</h3>
 
-- I'm 36 years old, and I'm from BH - MG. I'm in a career transition. I'm a Software Engineering and Big Data student.
+- I'm in a career transition. I'm a Software Engineering and Big Data student.
   
 - 🔭 I’m currently working on **Protheus e SQL Server**
 

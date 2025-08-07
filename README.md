@@ -2,15 +2,15 @@
 <h1 align="center"> 👋 I'm Leandro Santos </h1>
 <h3 align="center">My passion is to learn new things about technology every day.</h3>
 
-- I'm in a career transition. I'm a Software Engineering and Big Data student.
-  
-- 🔭 I’m currently working on **Protheus e SQL Server**
+I'm a Data Analyst with a passion for transforming raw data into strategic business value.
 
-- 🌱 I’m currently learning **Python and Machine learning**
+Currently, I'm specializing in **Business Intelligence** and **Data Engineering** for the logistics and heavy machinery sectors. I leverage **Power BI** and **SQL** to build powerful dashboards that drive business decisions, and I'm actively building robust data pipelines with **Python**.
 
-- 💬 Ask me about **Power BI, Google Data Studio, SQL**
+I'm an enthusiast for creating scalable data solutions, and you can see my work in my https://github.com/devleandroh/projeto-portfolio-engenharia-de-dados.
 
-- 📫 How to reach me **contato@leandrosantos.dev.br**
+Feel free to connect with me to discuss data-driven challenges or potential freelance projects.
+
+- 📫 How to reach me **leandro.santoshp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

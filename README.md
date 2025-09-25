@@ -10,7 +10,7 @@ I'm an enthusiast for creating scalable data solutions, and you can see my work 
 
 Feel free to connect with me to discuss data-driven challenges or potential freelance projects.
 
-- 📫 How to reach me **leandro.santoshp@gmail.com**
+- 📫 How to reach me **ia.leandro.santoshp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

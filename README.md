@@ -2,7 +2,7 @@
 <h1 align="center"> 👋 I'm Leandro Santos </h1>
 <h3 align="center">My passion is to learn new things about technology every day.</h3>
 
-I'm a Data Analyst with a passion for transforming raw data into strategic business value.
+I'm a Data Engeenier with a passion for transforming raw data into strategic business value.
 
 Currently, I'm specializing in **Business Intelligence** and **Data Engineering** for the logistics and heavy machinery sectors. I leverage **Power BI** and **SQL** to build powerful dashboards that drive business decisions, and I'm actively building robust data pipelines with **Python**.
 

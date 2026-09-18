@@ -15,53 +15,103 @@
 
 ---
 
-# ⚡ Data Engineering Lab
+<div align="center">
 
-I build systems that connect **data engineering, analytics, applications and AI**.
+## ⚡ DATA ENGINEERING LAB
 
-My focus is not only moving data from one place to another.
+### Turning operational data into useful systems.
 
-It is turning operational data into systems that people can actually use.
+</div>
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### 🗄️ DATA SOURCES
+
+ERP  
+SQL  
+APIs  
+Files  
+Systems
+
+</td>
+
+<td width="5%" align="center">
+
+### →
+
+</td>
+
+<td width="25%" align="center">
+
+### ⚙️ DATA ENGINEERING
+
+Python  
+SQL  
+PySpark  
+ETL / ELT  
+Data Modeling
+
+</td>
+
+<td width="5%" align="center">
+
+### →
+
+</td>
+
+<td width="25%" align="center">
+
+### 🧱 LAKEHOUSE
+
+**BRONZE**
+
+↓
+
+**SILVER**
+
+↓
+
+**GOLD**
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+**DATA → ENGINEERING → LAKEHOUSE → PRODUCTS → APPLICATIONS → AI**
+
+</div>
+
+---
+
+# 🛰️ MISSION CONTROL
+
+<div align="center">
+
+### The systems behind the work
+
+</div>
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### 🟢 DATA ENGINEERING
 
 ```text
-┌──────────────────┐
-│   DATA SOURCES   │
-│                  │
-│ ERP · SQL · API  │
-│ Files · Systems  │
-└────────┬─────────┘
-         │
-         ▼
-┌──────────────────┐
-│ DATA ENGINEERING │
-│                  │
-│ Python · SQL     │
-│ ETL / ELT        │
-│ PySpark          │
-└────────┬─────────┘
-         │
-         ▼
-┌──────────────────────────┐
-│        LAKEHOUSE          │
-│                          │
-│ Bronze → Silver → Gold   │
-└───────────┬──────────────┘
-            │
-       ┌────┴─────┐
-       ▼          ▼
-┌────────────┐ ┌──────────────┐
-│ ANALYTICS  │ │ DATA APPS    │
-│            │ │              │
-│ Dashboards │ │ Web · APIs   │
-│ BI         │ │ Applications │
-└─────┬──────┘ └──────┬───────┘
-      │               │
-      └───────┬───────┘
-              ▼
-       ┌──────────────┐
-       │ AI &         │
-       │ AUTOMATION   │
-       │              │
-       │ LLMs · Agent │
-       │ Workflows    │
-       └──────────────┘
+┌──────────────────────┐
+│ INGESTION            │
+├──────────────────────┤
+│ Python               │
+│ SQL                  │
+│ PySpark              │
+│ ETL / ELT            │
+│ Data Modeling        │
+└──────────────────────┘

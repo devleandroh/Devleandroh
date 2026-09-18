@@ -8,8 +8,8 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrohsantos/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ia.leandro.santoshp@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-santos-data/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandro.santoshp@gmail.com)
 
 </div>
 
@@ -25,45 +25,52 @@
 
 <table>
 <tr>
-<td width="25%" align="center">
 
-### 🗄️ DATA SOURCES
+<td align="center" width="20%">
+
+<img src="https://skillicons.dev/icons?i=database" width="48">
+
+### DATA SOURCES
 
 ERP  
-SQL  
+SQL Server  
 APIs  
 Files  
 Systems
 
 </td>
 
-<td width="5%" align="center">
+<td align="center" width="5%">
 
-### →
+# →
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="20%">
 
-### ⚙️ DATA ENGINEERING
+<img src="https://skillicons.dev/icons?i=python" width="48">
+
+### ENGINEERING
 
 Python  
 SQL  
 PySpark  
 ETL / ELT  
-Data Modeling
+Modeling
 
 </td>
 
-<td width="5%" align="center">
+<td align="center" width="5%">
 
-### →
+# →
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="20%">
 
-### 🧱 LAKEHOUSE
+<img src="https://skillicons.dev/icons?i=azure" width="48">
+
+### LAKEHOUSE
 
 **BRONZE**
 
@@ -77,14 +84,32 @@ Data Modeling
 
 </td>
 
+<td align="center" width="5%">
+
+# →
+
+</td>
+
+<td align="center" width="20%">
+
+<img src="https://skillicons.dev/icons?i=nextjs" width="48">
+
+### DATA PRODUCTS
+
+Dashboards  
+APIs  
+Web Apps  
+Analytics  
+AI
+
+</td>
+
 </tr>
 </table>
 
-<br>
-
 <div align="center">
 
-**DATA → ENGINEERING → LAKEHOUSE → PRODUCTS → APPLICATIONS → AI**
+### DATA → ENGINEERING → LAKEHOUSE → PRODUCTS → APPLICATIONS → AI
 
 </div>
 
@@ -94,24 +119,28 @@ Data Modeling
 
 <div align="center">
 
-### The systems behind the work
+### Building systems where data becomes useful.
 
 </div>
 
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 🟢 DATA ENGINEERING
+## 🟢 DATA ENGINEERING
+
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql" height="42">
+
+**Pipelines · Modeling · Transformation**
 
 ```text
-┌──────────────────────┐
-│ INGESTION            │
-├──────────────────────┤
-│ Python               │
-│ SQL                  │
-│ PySpark              │
-│ ETL / ELT            │
-│ Data Modeling        │
-└──────────────────────┘
+INGESTION
+    ↓
+TRANSFORMATION
+    ↓
+VALIDATION
+    ↓
+MODELING
+    ↓
+SERVING

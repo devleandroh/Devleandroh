@@ -1,146 +1,101 @@
 <div align="center">
 
-# 👋 Hi, I'm Leandro Santos
-
-### Data Engineering · Data Products · AI Applications
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Building+data-driven+systems...;Turning+operational+data+into+useful+products...;Engineering+pipelines%2C+applications+and+AI+workflows...;Data+%E2%86%92+Systems+%E2%86%92+Applications+%E2%86%92+AI" alt="Typing animation" />
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-santos-data/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandro.santoshp@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-## ⚡ DATA ENGINEERING LAB
-
-### Turning operational data into useful systems.
-
-</div>
+### ⚡ What I Do
 
 <table>
 <tr>
+<td width="65%" valign="middle">
 
-<td align="center" width="20%">
+<h3>Data Engineering & Data Products</h3>
 
-<img src="https://skillicons.dev/icons?i=database" width="48">
+<p>
+I design and build data solutions that transform complex operational
+and ERP data into reliable, usable and intelligent products.
+</p>
 
-### DATA SOURCES
+<p>
+My work spans the entire data lifecycle:
+<strong>data extraction → pipelines → Lakehouse → data modeling →
+APIs → dashboards → AI applications.</strong>
+</p>
 
-ERP  
-SQL Server  
-APIs  
-Files  
-Systems
-
-</td>
-
-<td align="center" width="5%">
-
-# →
-
-</td>
-
-<td align="center" width="20%">
-
-<img src="https://skillicons.dev/icons?i=python" width="48">
-
-### ENGINEERING
-
-Python  
-SQL  
-PySpark  
-ETL / ELT  
-Modeling
+<p>
+I work mainly with <strong>SQL, Python, Microsoft Fabric, PySpark,
+SQL Server, PostgreSQL, Supabase, Power BI, Next.js, TypeScript,
+Flask and AI/LLM technologies.</strong>
+</p>
 
 </td>
 
-<td align="center" width="5%">
+<td width="35%" align="center">
 
-# →
+<img src="./assets/totvs-logo.png" width="180">
 
-</td>
+<br><br>
 
-<td align="center" width="20%">
-
-<img src="https://skillicons.dev/icons?i=azure" width="48">
-
-### LAKEHOUSE
-
-**BRONZE**
-
-↓
-
-**SILVER**
-
-↓
-
-**GOLD**
+<sub><b>ERP & Enterprise Data</b></sub>
+<br>
+<sub>Working with data originating from TOTVS environments</sub>
 
 </td>
-
-<td align="center" width="5%">
-
-# →
-
-</td>
-
-<td align="center" width="20%">
-
-<img src="https://skillicons.dev/icons?i=nextjs" width="48">
-
-### DATA PRODUCTS
-
-Dashboards  
-APIs  
-Web Apps  
-Analytics  
-AI
-
-</td>
-
 </tr>
 </table>
 
-<div align="center">
-
-### DATA → ENGINEERING → LAKEHOUSE → PRODUCTS → APPLICATIONS → AI
-
 </div>
 
----
 
-# 🛰️ MISSION CONTROL
 
 <div align="center">
 
-### Building systems where data becomes useful.
-
-</div>
+### 🧠 My Engineering Focus
 
 <table>
 <tr>
+<td align="center" width="25%">
 
-<td width="50%" valign="top">
+### ◈
+**DATA ENGINEERING**
 
-## 🟢 DATA ENGINEERING
+SQL · Python  
+ETL / ELT · PySpark  
+Data Modeling
 
-<img src="https://skillicons.dev/icons?i=python,postgres,mysql" height="42">
+</td>
 
-**Pipelines · Modeling · Transformation**
+<td align="center" width="25%">
 
-```text
-INGESTION
-    ↓
-TRANSFORMATION
-    ↓
-VALIDATION
-    ↓
-MODELING
-    ↓
-SERVING
+### ◇
+**DATA PLATFORMS**
+
+Lakehouse  
+Microsoft Fabric  
+PostgreSQL · SQL Server
+
+</td>
+
+<td align="center" width="25%">
+
+### ⬡
+**DATA PRODUCTS**
+
+Dashboards  
+APIs · Web Apps  
+Supabase · Next.js
+
+</td>
+
+<td align="center" width="25%">
+
+### ✦
+**AI ENGINEERING**
+
+LLMs  
+AI Agents  
+Automation  
+Intelligent Applications
+
+</td>
+</tr>
+</table>
+
+</div>

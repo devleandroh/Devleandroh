@@ -1,25 +1,121 @@
+<div align="center">
 
-<h1 align="center"> 👋 I'm Leandro Santos </h1>
-<h3 align="center">My passion is to learn new things about technology every day.</h3>
+# 👋 Hi, I'm Leandro Santos
 
-I'm a Data Engeenier with a passion for transforming raw data into strategic business value.
+### Data Engineering · Analytics · AI-Powered Applications
 
-Currently, I'm specializing in **Business Intelligence** and **Data Engineering** for the logistics and heavy machinery sectors. I leverage **Power BI** and **SQL** to build powerful dashboards that drive business decisions, and I'm actively building robust data pipelines with **Python**.
+Building data products, intelligent workflows and software
+that turn business data into actionable insights.
 
-I'm an enthusiast for creating scalable data solutions, and you can see my work in my https://github.com/devleandroh/projeto-portfolio-engenharia-de-dados.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrohsantos/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ia.leandro.santoshp@gmail.com)
 
-Feel free to connect with me to discuss data-driven challenges or potential freelance projects.
+</div>
 
-- 📫 How to reach me **ia.leandro.santoshp@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/leandro-santos-data/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-</p>
+## About me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+I'm a Data Engineer focused on building practical data solutions,
+from ingestion and transformation to analytics applications.
 
+My work connects:
 
+- Data Engineering and ELT pipelines
+- SQL, Python and PostgreSQL
+- Lakehouse architecture
+- Business Intelligence and analytics
+- Web applications for data consumption
+- AI-assisted workflows and automation
 
+I enjoy turning complex operational data into systems that
+people can actually use to make better decisions.
 
+---
+
+## 🚧 Currently building
+
+### Compras 360
+A data platform for monitoring the purchasing flow:
+
+**Purchase Request → Purchase Order → Invoice**
+
+Focus areas:
+- Data integration
+- Lakehouse architecture
+- Data modeling
+- Analytics applications
+- Operational visibility
+
+### Cortex IA Command Center
+A personal project focused on organizing knowledge,
+projects and workflows around AI-assisted work.
+
+### AI Engineering OS
+A Python-based toolkit for structured AI-assisted
+engineering workflows, automation and knowledge management.
+
+---
+
+## 🧩 Selected projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **Compras 360** | Purchasing data platform | Fabric · PySpark · SQL · Supabase |
+| **Faturamento 360** | Analytics application for billing data | SQL · PostgreSQL · Next.js |
+| **Cortex IA** | AI-assisted knowledge and workflow system | Python · AI · Automation |
+| **AI Engineering OS** | CLI and tooling for AI-assisted engineering | Python · CLI · Obsidian |
+| **Cestinha** | Product discovery and comparison platform | Next.js · TypeScript · Supabase |
+
+> Project links and technical details are being organized
+> as each project reaches a publishable state.
+
+---
+
+## 🛠️ Technologies
+
+### Data Engineering
+Python · SQL · PySpark · Microsoft Fabric · Lakehouse · ETL / ELT
+
+### Data Platforms
+PostgreSQL · Supabase · SQL Server · Data Modeling
+
+### Applications
+Next.js · TypeScript · Flask · REST APIs
+
+### AI & Automation
+LLMs · AI Agents · Prompt Engineering · Workflow Automation
+
+### Engineering
+Git · GitHub · Docker · CI/CD · Linux
+
+---
+
+## 📚 Currently learning
+
+- Data product architecture
+- AI engineering and agentic workflows
+- LLM application architecture
+- Data modeling and semantic layers
+- Scalable analytics applications
+- Software engineering practices for data products
+
+---
+
+## 📌 My approach
+
+> Build useful systems.
+> Understand the data deeply.
+> Automate what can be automated.
+> Turn technical work into business value.
+
+---
+
+<div align="center">
+
+### Let's connect
+
+Open to conversations about data engineering,
+analytics applications, AI workflows and freelance projects.
+
+</div>
